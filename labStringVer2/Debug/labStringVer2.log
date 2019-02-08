@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  labStringVer2.cpp
+c:\users\vladislav\desktop\labstringver2\labstringver2\labstringver2.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+  labStringVer2.vcxproj -> C:\Users\Vladislav\Desktop\labStringVer2\Debug\labStringVer2.exe
+  labStringVer2.vcxproj -> C:\Users\Vladislav\Desktop\labStringVer2\Debug\labStringVer2.pdb (Full PDB)
